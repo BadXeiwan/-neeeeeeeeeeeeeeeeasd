@@ -114,7 +114,7 @@ local UICorner_43 = Instance.new("UICorner")
 --Properties:
 
 ForZy.Name = "ForZy"
-ForZy.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ForZy.Parent = game.CoreGui
 
 UI.Name = "UI"
 UI.Parent = ForZy
